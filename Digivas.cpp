@@ -155,11 +155,11 @@ void iDraw()
 	iSetColor(0, 0, 0); // Size Increase
 	iFilledCircle(1475, 60, 10);
 	iSetColor(255, 255, 255);
-	iText(1473, 55, ">");
+	iText(1472, 55, "+");
 	iSetColor(0, 0, 0); // Size Decrease
 	iFilledCircle(1425, 60, 10);
 	iSetColor(255, 255, 255);
-	iText(1420, 55, "<");
+	iText(1420, 55, "-");
 	iSetColor(0, 0, 0); // Pen Tool
 	iFilledEllipse(1450, 40, 30, 10);
 	iSetColor(255, 255, 255);
